@@ -1,0 +1,9 @@
+
+pkg install git
+pkg install python
+pkg install python2
+pip2 install requests
+pip2 install requests
+git clone https://github.com/borther786/ali
+cd borther786
+python2 borther786.py
